@@ -24,6 +24,7 @@
 
 
 **Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
+
 ![image](https://github.com/user-attachments/assets/252927ab-2703-47b6-a7ee-39583faff604)
 
 **Executive Summary**
