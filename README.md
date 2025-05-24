@@ -1,5 +1,6 @@
 **Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
 
+![image](https://github.com/user-attachments/assets/252927ab-2703-47b6-a7ee-39583faff604)
 
 **Executive Summary**
 The global electrical grid, a foundational pillar of modern civilization, is undergoing an unprecedented digital transformation. The integration of advanced sensors, intelligent electronic devices (IEDs), two-way communication systems, and distributed energy resources (DERs) has ushered in the era of the "Smart Grid," promising enhanced efficiency, reliability, and sustainability. However, this digitalization has simultaneously expanded the grid's attack surface, making cybersecurity a paramount, real-time imperative worldwide. As cyber threats grow in sophistication and frequency, driven by state-sponsored actors, cybercriminals, and hacktivists, the risk of widespread power outages, economic disruption, and national security compromises looms large. This report details the evolving threat landscape, examines the essential components of a robust cybersecurity architecture, highlights real-time applications of these defenses across the globe, and outlines the critical need for continuous vigilance, collaboration, and innovation to secure the world's most vital infrastructure.
