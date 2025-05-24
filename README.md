@@ -7,6 +7,11 @@
 
 **TOPIC:Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
 
+**LINK:https://github.com/ADHAVAN08-eng/Grid-Cybersecurity-A-Global-Real-Time-Imperative-for-the-Modern-Power-Landscape/blob/main/README.md**
+
+![image](https://github.com/user-attachments/assets/e52f78dc-52b9-401c-9136-d912e4692501)
+
+
 
 
 **Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
