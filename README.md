@@ -1,41 +1,4 @@
-
-**NAME : ADHAVAN K**
-
-
-**REGISTER NUMBER : 212223060009**
-
-
-**TOPIC:Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
-
-
-**LINK:https://github.com/ADHAVAN08-eng/Grid-Cybersecurity-A-Global-Real-Time-Imperative-for-the-Modern-Power-Landscape/blob/main/README.md**
-
-
-![image](https://github.com/user-attachments/assets/9d8c5cbf-798a-4f1f-8549-19855d6a1cff)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **Grid Cybersecurity: A Global, Real-Time Imperative for the Modern Power Landscape**
-![image](https://github.com/user-attachments/assets/252927ab-2703-47b6-a7ee-39583faff604)
-
-**Executive Summary**
-The global electrical grid, a foundational pillar of modern civilization, is undergoing an unprecedented digital transformation. The integration of advanced sensors, intelligent electronic devices (IEDs), two-way communication systems, and distributed energy resources (DERs) has ushered in the era of the "Smart Grid," promising enhanced efficiency, reliability, and sustainability. However, this digitalization has simultaneously expanded the grid's attack surface, making cybersecurity a paramount, real-time imperative worldwide. As cyber threats grow in sophistication and frequency, driven by state-sponsored actors, cybercriminals, and hacktivists, the risk of widespread power outages, economic disruption, and national security compromises looms large. This report details the evolving threat landscape, examines the essential components of a robust cybersecurity architecture, highlights real-time applications of these defenses across the globe, and outlines the critical need for continuous vigilance, collaboration, and innovation to secure the world's most vital infrastructure.
 
 **1. Introduction:**
 1. The Grid's Digital Transformation and Its Inherent Risks
@@ -46,6 +9,10 @@ Intelligent Electronic Devices (IEDs): Microprocessor-based devices in substatio
 Distributed Energy Resources (DERs): Rooftop solar, wind farms, and battery storage systems integrate into the grid, often with digital controls.
 IT/OT Convergence: The blurring lines between traditional Information Technology (IT) and Operational Technology (OT) networks introduce new vulnerabilities as enterprise systems connect directly to grid controls.
 While these advancements bring significant benefits—such as optimized power flow, faster fault detection, and seamless renewable energy integration—they also introduce substantial cybersecurity risks. A successful cyberattack on the grid can disrupt essential services, leading to economic paralysis, public safety hazards, and even national security crises. The urgency of addressing these threats in real-time is now universally recognized.
+![image](https://github.com/user-attachments/assets/cd873947-49cd-4484-a8d6-465ae12c7bf2)
+
+**Executive Summary**
+The global electrical grid, a foundational pillar of modern civilization, is undergoing an unprecedented digital transformation. The integration of advanced sensors, intelligent electronic devices (IEDs), two-way communication systems, and distributed energy resources (DERs) has ushered in the era of the "Smart Grid," promising enhanced efficiency, reliability, and sustainability. However, this digitalization has simultaneously expanded the grid's attack surface, making cybersecurity a paramount, real-time imperative worldwide. As cyber threats grow in sophistication and frequency, driven by state-sponsored actors, cybercriminals, and hacktivists, the risk of widespread power outages, economic disruption, and national security compromises looms large. This report details the evolving threat landscape, examines the essential components of a robust cybersecurity architecture, highlights real-time applications of these defenses across the globe, and outlines the critical need for continuous vigilance, collaboration, and innovation to secure the world's most vital infrastructure.
 
 **2. The Evolving Global Threat Landscape**
 The power sector is one of the most frequently targeted industries globally due to its critical nature. Cyber threats are becoming more sophisticated, blending traditional IT attack vectors with methods specifically designed to disrupt industrial control systems (ICS) and OT environments.
